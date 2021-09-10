@@ -1,3 +1,6 @@
+#Auther:LessSafe
+#web:https://github.com/lesssafe/
+
 import requests
 import string
 import sys
